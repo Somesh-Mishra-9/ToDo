@@ -46,12 +46,21 @@ label{
     
 }
 
-input{
+input {
     width: 480px;
     padding: 8px;
     border-radius: 5px;
     border: 1px solid lightblue;
     box-shadow: 2px 2px 5px black;
+}
+
+textArea{
+    width: 480px;
+    padding: 8px;
+    border-radius: 5px;
+    border: 1px solid lightblue;
+    box-shadow: 2px 2px 5px black;
+    min-height:50px;
 }
 
 .todo-container{
@@ -110,7 +119,7 @@ input{
         width: 100%;
         padding-right: 10px;
     }
-    input{
+    input textArea{
         width: 95%;
       
     }
