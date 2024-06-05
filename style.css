@@ -61,7 +61,6 @@ textArea{
     border: 1px solid lightblue;
     box-shadow: 2px 2px 5px black;
     min-height:50px;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .todo-container{
@@ -84,6 +83,7 @@ textArea{
 
 .todo-description{
     color:rgba(0, 0, 0, 0.800);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .remove-btn{
